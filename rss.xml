@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[meBNoah]]></title>
         <description><![CDATA[meBNoah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mebnoah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 22:44:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 22:53:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mebnoah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc65345-05be-494f-9638-307272e0ed04.jpg">]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/mebnoah/about-me/index.html</link>
             <guid isPermaLink="false">903cfeb4-0c9c-4b19-99cb-3192f22a4568</guid>
-            <pubDate>Sun, 01 May 2016 22:44:37 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 22:53:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
